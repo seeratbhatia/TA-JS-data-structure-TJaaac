@@ -1,6 +1,7 @@
 //  Follow instructions below and write code accordingly.
 
 //  - Create a variable named `character` using `let` assign a value of empty object.
+let 
 
 //  - Go to this [Arya Stark](https://awoiaf.westeros.org/index.php/Arya_Stark)
 
