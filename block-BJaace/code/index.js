@@ -1,5 +1,5 @@
 // 1. Declare an empty array and store it in a variable.
-
+let arr = []
 // 2. Now check the type of empty array you declared above.
 
 // 3. Create an array named `colors` that contains five different names of colors as strings.
