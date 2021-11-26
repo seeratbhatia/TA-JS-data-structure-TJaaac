@@ -89,3 +89,5 @@ Use the variable named movies to solve the requirement below.
 // 29. Log the name of all the movies with exactly 3 actors
 
 // 30. Log the name of all the movies with year `2018`
+incomplete
+
